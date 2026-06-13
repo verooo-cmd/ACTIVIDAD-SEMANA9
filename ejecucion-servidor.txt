@@ -1,0 +1,15 @@
+1. ¿Qué ocurre cuando ejecutas node server.js?
+Lo que ocurre es que Node.js interpreta y ejecuta el archivo server.js, que normalmente contiene el código para inicializar un servidor web.
+
+2. ¿Qué mensaje aparece en la terminal?
+En la terminal aparece un mensaje definido como (Servidor ejecutandose en puerto 3000)
+
+
+
+3. ¿Qué sucede cuando visitas la ruta /estado?
+Cuando visito la ruta, el  servidor devuelve un objeto en formato JSON con información sobre su estado.
+
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}

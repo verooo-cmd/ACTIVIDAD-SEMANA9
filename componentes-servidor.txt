@@ -1,0 +1,14 @@
+A. Sistema operativo  
+Es el software base que administra los recursos del computador (memoria, CPU, dispositivos) y permite que otras aplicaciones funcionen. Sin él, no podrías ejecutar programas ni interactuar con el hardware.
+
+B. Node.js  
+Es un entorno de ejecución que permite usar JavaScript en el servidor, a través de él se facilita crear aplicaciones web rápidas y escalables gracias a su modelo asíncrono y basado en eventos.
+
+C. Aplicación server.js  
+Es el archivo que contiene el código de tu servidor, es decir, se define cómo responde a las solicitudes de los usuarios y en qué puerto escucha las conexiones.
+
+D. Puerto  
+Es un número que identifica un canal de comunicación en el servidor. Permite que diferentes servicios funcionen simultáneamente sin confundirse (ejemplo: 80 para HTTP).
+
+E. Logs  
+Son archivos donde se registran eventos y actividades del sistema, puesto que sirven para monitorear el funcionamiento, detectar errores y mejorar la seguridad del servidor.
